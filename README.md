@@ -1,2 +1,2 @@
 # Payment-Management-System
-Assalamualaikum everyone. HOPE you are doing great by the grace of Almighty Allah. Myself Iftekhar Ahmed Jami  Khan. 
+Assalamualaikum everyone. HOPE you are doing great by the grace of Almighty Allah. Myself Iftekhar Ahmed Jami  Khan. Assalamualaikum everyone. HOPE you are doing great by the grace of Almighty Allah. Myself ftekhar Ahmed JAmi  Khan. My project name is Payment Management system. It is actually a system that is consists of several feature like attendance list, payroll list, employee list, department list, position list, allowance list, deduction features with the addition of user's interface.  
