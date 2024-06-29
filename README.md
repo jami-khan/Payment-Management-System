@@ -7,6 +7,7 @@ Payment management consists of the method by which an organization pays its empl
 
  
 TECHNOLOGY USED: 
+
 Front-End: HTML, CSS, XAMPP and JavaScript  
 Back-End: MySQL, PHP, Microsoft Visual Code 
 
